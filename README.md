@@ -1,14 +1,3 @@
----
-title: Telco Customer Churn Predictor
-colorFrom: blue
-colorTo: indigo
-sdk: docker
-sdk_version: latest
-app_port: 7860
-pinned: false
-license: MIT
----
-
 # Telco Customer Churn Predictor
 
 Streamlit dashboard + FastAPI backend for churn prediction using LightGBM.
