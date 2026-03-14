@@ -3,7 +3,8 @@
 Streamlit dashboard + FastAPI backend for churn prediction using LightGBM.
 
 - Dashboard → port 7860 (visible in browser)
-- API → http://localhost:8000 or [https://huggingface.co/spaces/vinaykumarkv/telco-churn-predictor](https://huggingface.co/spaces/vinaykumarkv/telco-churn-predictor) (you can proxy it if needed)
+- API → http://localhost:8000
+- Hugging face live - [https://huggingface.co/spaces/vinaykumarkv/telco-churn-predictor](https://huggingface.co/spaces/vinaykumarkv/telco-churn-predictor) 
 
 
 **Features**
